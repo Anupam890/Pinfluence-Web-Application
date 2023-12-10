@@ -64,7 +64,7 @@ To run Pinfluence locally, follow these steps:
     npm start
     ```
 
-6. Open your browser and go to [http://localhost:3000](http://localhost:3000) to view the application.
+6. Open your browser and go to [http://localhost:3000](http://localhost:9090) to view the application.
 
 ## Usage
 
