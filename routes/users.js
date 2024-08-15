@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 const plm = require('passport-local-mongoose');
 
-mongoose.connect('mongodb://127.0.0.1:27017/pintrest')
+mongoose.connect('mongodb+srv://anupamm059:anupamm059@anupam.uf4bal6.mongodb.net/?retryWrites=true&w=majority&appName=Anupam')
     .then(() => {
         console.log("Connected to database");
     })
